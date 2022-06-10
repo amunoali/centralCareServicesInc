@@ -1,62 +1,28 @@
+# Central Care Services
+This app allows you to calculate your BMI.
 
-TITLE: 
-Education - 100% Fully Responsive Free HTML5 Bootstrap Template
+**Link to project:** http://centralcareservice.com/
 
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+![alt tag](<img src="images/centralCareServiceReadMe.png">)
 
 
-CREDITS:
 
-Bootstrap
-http://getbootstrap.com/
+## How It's Made:
 
-jQuery
-http://jquery.com/
+**Tech used:** HTML, CSS, JavaScript
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
+Simple full-stack web application for an autism center.
 
-Modernizr
-http://modernizr.com/
 
-Google Fonts
-https://www.google.com/fonts/
 
-Google Map
-http://maps.google.com/
 
-Icomoon
-https://icomoon.io/app/
+## Examples:
+Take a look at these couple examples that I have in my own portfolio:
 
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+**Palettable:** https://github.com/amunoali/Amana-Home-Health
 
-animate.css
-http://daneden.me/animate
+**Twitter Battle:** https://github.com/amunoali/portfolio
 
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+**Patch Panel:** https://github.com/amunoali/randomPersonPicker
 
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
-
-Flexslider
-http://flexslider.woothemes.com/
-
-jQuery countTo
-http://www.owlcarousel.owlgraphic.com/
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-Demo Images:
-http://unsplash.com
 
