@@ -3,13 +3,9 @@ This app allows you to calculate your BMI.
 
 **Link to project:** http://centralcareservice.com/
 
-<<<<<<< HEAD
-<img src="./images/centralCareServiceReadMe.png" alt="">
-=======
-<img src="./images/centralCareServiceReadMe.png">
->>>>>>> 630d9e45a7ab29ba9a52eb188a6443b28995b5a7
 
-file:///Users/amunoali/Desktop/Github/Central%20Care%20Inc/images/centralCareServiceReadMe.png
+<img src="images/centralCareServiceReadMe.png">
+
 
 ## How It's Made:
 
