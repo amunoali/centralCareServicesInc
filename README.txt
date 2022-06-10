@@ -3,7 +3,7 @@ This app allows you to calculate your BMI.
 
 **Link to project:** http://centralcareservice.com/
 
-![alt tag](<img src="images/centralCareServiceReadMe.png">)
+<img src="./images/centralCareServiceReadMe.png" alt="">
 
 
 
