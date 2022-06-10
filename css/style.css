@@ -339,9 +339,9 @@ h1.heading-section, h3.heading-section, p.heading-section{
 #fh5co-hero .flexslider .slides li {
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: bottom center;
-  min-height: 630px;
-  height: 630px;
+  background-position:  center;
+  min-height: 730px;
+  height: 730px;
   position: relative;
 }
 #fh5co-hero .flexslider .slides li:after {
@@ -391,13 +391,13 @@ h1.heading-section, h3.heading-section, p.heading-section{
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h1 {
   margin-bottom: 20px;
-  font-size: 40px;
+  font-size: 60px;
   line-height: 1.3;
   font-weight: 300;
 }
 @media screen and (max-width: 768px) {
   #fh5co-hero .flexslider .slider-text > .slider-text-inner h1 {
-    font-size: 30px;
+    font-size: 40px;
   }
 }
 #fh5co-hero .flexslider .slider-text > .slider-text-inner h2 {
